@@ -8,8 +8,8 @@
     <string name="Hw5_minute">分</string>
     <string name="Hw5_second">秒</string>
     <string name="Hw5_leap_year">閏年 : </string>
-    <string name="Hw5_ymd">年/月/日</string>
-    <string name="Hw5_hms">時:分:秒</string>
+    <string name="ymd">年/月/日</string>
+    <string name="hms">時:分:秒</string>
     <string name="Hw5_title">時間換算</string>
     <string name="Hw5_set_time">顯示</string>
 </resources>
